@@ -114,3 +114,7 @@ generate_optimized_workflows:
     - Avoid deprecated actions or broken versions
     - Include practical and reusable steps
     - Extract and setup dist files after copying to EC2
+
+
+Write detailed prompt with role, goal, backstory, description and output for crew AI agents which will analyse provided python code repository from github with key details like unit tests, build files and generate proper error free github action version 4 workflow to test, build and deploy the code into any cloud VM
+ 
